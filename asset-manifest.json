@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4f58a7d.css",
+    "main.js": "/static/js/main.7812f2cc.js",
+    "static/media/workImg.png": "/static/media/workImg.7e015f61e9a2f110fca3.png",
+    "static/media/python.png": "/static/media/python.d8b377f05522bf35de36.png",
+    "static/media/gcp.png": "/static/media/gcp.625d79155baed74f82b9.png",
+    "static/media/html.png": "/static/media/html.1d7b133e22ffe4829da6.png",
+    "static/media/excel.png": "/static/media/excel.9e88926a83aff63761e0.png",
+    "static/media/vs.png": "/static/media/vs.6acf7130202323bec1fc.png",
+    "static/media/javascript.png": "/static/media/javascript.a2a16f087e18d50f3d99.png",
+    "static/media/css.png": "/static/media/css.9a088dd12159725b7a63.png",
+    "static/media/reactImg.png": "/static/media/reactImg.20adfb35ae6a6e5817bf.png",
+    "static/media/c.png": "/static/media/c.83dfa097dfa94f707a41.png",
+    "static/media/github.png": "/static/media/github.ffa70286205754fefa7e.png",
+    "index.html": "/index.html",
+    "main.b4f58a7d.css.map": "/static/css/main.b4f58a7d.css.map",
+    "main.7812f2cc.js.map": "/static/js/main.7812f2cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4f58a7d.css",
+    "static/js/main.7812f2cc.js"
+  ]
+}
