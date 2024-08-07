@@ -13,9 +13,9 @@ const Home = () => {
 				<p className = 'text-[#e06666] text-2xl'>Hello, my name is</p>
 				<h1 className = 'text-4xl sm: text-7xl font-bold text-[#ffffff]'>David Grim</h1>
 				<h2 className = 'text-4xl sm: text-6xl font-bold text-[#eeeeee] py-4'>Welcome to my webpage!</h2>
-				<p className = 'text-[#eeeeee] text-2xl py-4 max-w-[700px]'>As an aspiring full-stack developer, I have a passion for creating dynamic web pages and learning new programming languages.
-				   Currently I am working on improving my knowledge of Javascript using the React framework.
-				   This webpage was written using React and tailwinds.css. Feel free to have a look around!
+				<p className = 'text-[#eeeeee] text-2xl py-4 max-w-[700px]'>I am a multifaceted IT professional, with a strong passion for
+					programming. The lower the level, the better! Don't let that fool you however, as I wrote this webpage using React...
+					Feel free to have a look around!
 				</p>
 				<div>
 					<button className = 'text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#cc0000]'>
