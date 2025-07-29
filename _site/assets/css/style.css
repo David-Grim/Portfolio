@@ -1,0 +1,33 @@
+body {
+  font-family: 'Courier New', monospace;
+  margin: 0;
+  line-height: 2;
+}
+
+header, footer {
+  background-color: #edbdbd;
+  color: #0e0d0d;
+  padding: 1rem;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 2rem;
+}
+
+nav a {
+  color: #0d0b0b;
+  text-decoration: none;
+}
+
+main {
+  padding: 2rem;
+}
+
+@media (max-width: 600px) {
+  nav ul {
+    flex-direction: column;
+  }
+}
