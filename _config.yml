@@ -1,4 +1,4 @@
 title: Your Portfolio
 description: A portfolio site for David
-baseurl: "/Portfolio" # leave empty for GitHub Pages
-url: "https://david-grim.github.io/" # your site URL
+baseurl: "" 
+url: "https://david-grim.github.io/Portfolio" # your site URL
