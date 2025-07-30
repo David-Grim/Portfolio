@@ -45,4 +45,4 @@ I believe:
 ## 🗣️ Let's Connect
 Want to nerd out with me over why FOSS is better for humanity in the long term? Want to talk about cryptocurrencies? Want to talk about how I'm all wrong, or you just don't like my stream of thoughts? 
 
-[Hit me up](/contact)
+[Hit me up]({{ site.baseurl }}/contact)

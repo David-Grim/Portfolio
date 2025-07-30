@@ -8,7 +8,7 @@ title: Home
 
 Hi, I'm **David**. I'm a programmer analyst based out of the Bay area. 
 
-I solve problems. [Schedule a chat with me to figure out how.](/contact)
+I solve problems. [Schedule a chat with me to figure out how.]({{ site.baseurl }}/contact)
 
-[See My Projects](/projects)
+[See My Projects]({{ site.baseurl }}/projects)
 
