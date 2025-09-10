@@ -2,4 +2,4 @@ title: Your Portfolio
 description: A portfolio site for David
 baseurl: "/Portfolio" 
 url: "https://david-grim.github.io" # your site URL
-permalink: /Portfolio/blog/:year/:month/:day/:title.html
+permalink: /blog/:title.html
