@@ -4,3 +4,4 @@ _site/
 *.gem
 *.swp
 .DS_Store
+robots.txt
