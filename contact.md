@@ -11,7 +11,7 @@ Any and all communication should be directed to my LinkedIn profile. I actually 
 
 ## 📱 Social Media
 
-- [LinkedIn](https://www.linkedin.com/in/david-grim-83304b1b7/)
+- [LinkedIn](https://www.linkedin.com/in/grims-network/)
 - [GitHub](https://github.com/David-Grim)
 
 ---
